@@ -1,2 +1,2 @@
 # omgee199.github.io
-This website is for everyone
+This website is for everyone.
